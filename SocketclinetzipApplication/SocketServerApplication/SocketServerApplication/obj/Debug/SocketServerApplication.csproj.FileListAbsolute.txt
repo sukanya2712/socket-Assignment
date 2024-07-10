@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SocketServerApplication\SocketServerApplication\bin\Debug\SocketServerApplication.exe.config
+C:\Users\Admin\source\repos\SocketServerApplication\SocketServerApplication\bin\Debug\SocketServerApplication.exe
+C:\Users\Admin\source\repos\SocketServerApplication\SocketServerApplication\bin\Debug\SocketServerApplication.pdb
+C:\Users\Admin\source\repos\SocketServerApplication\SocketServerApplication\obj\Debug\SocketServerApplication.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SocketServerApplication\SocketServerApplication\obj\Debug\SocketServerApplication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SocketServerApplication\SocketServerApplication\obj\Debug\SocketServerApplication.exe
+C:\Users\Admin\source\repos\SocketServerApplication\SocketServerApplication\obj\Debug\SocketServerApplication.pdb
